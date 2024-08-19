@@ -4,7 +4,7 @@ This repository provides scripts to convert, quantize, and deploy your fine-tune
 
 Here’s the revised `README.md` specifically tailored for Linux installation and the steps you provided:
 
-```markdown
+
 # Ollama Installation and Model Conversion Guide (Linux)
 
 This guide provides step-by-step instructions to download and install Ollama on Linux, convert models to GGUF format, and use Ollama for serving models.
@@ -12,7 +12,7 @@ This guide provides step-by-step instructions to download and install Ollama on 
 ## 1. Download and Install Ollama on Linux
 
 ### 1.1 Download the Ollama Installation Script
-```
+
 ```bash
 curl -O https://ollama.com/download/ollama-linux.sh
 ```

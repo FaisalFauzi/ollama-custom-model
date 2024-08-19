@@ -12,6 +12,7 @@ This guide provides step-by-step instructions to download and install Ollama on 
 ## 1. Download and Install Ollama on Linux
 
 ### 1.1 Download the Ollama Installation Script
+
 ```bash
 curl -O https://ollama.com/download/ollama-linux.sh
 ```
